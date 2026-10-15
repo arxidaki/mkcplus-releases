@@ -34,8 +34,14 @@ Install MKC+ on each device and open it. On a Mac, grant Input Monitoring and Ac
 **Does it work over Wi-Fi?**
 MKC+ works over Wi-Fi, Ethernet, or both at once. It tests every connection all the time, uses the best one, and switches by itself if one drops. Your devices must be on the same local network; MKC+ does not work across the internet.
 
+**Which ports does MKC+ use?**
+UDP ports 47653 and 47654 and TCP port 47654, on your local network only. If a firewall blocks them, the MKC+ window says which device to fix.
+
 **Can I copy and paste between Windows, Mac and Android?**
 Yes. Copy on one device, move the pointer to another device, and paste. Between PCs and Macs, text, formatted text, images and PDFs cross, and so do files and folders, which you can also drag across. With an Android phone or tablet, text and images cross both ways. To send files from it, share them to MKC+ and paste on a PC or Mac. A file copied on a PC or Mac shows on it in a notification with Save to Downloads. File copy is the newest part and still has limits in the beta.
+
+**What if the pointer gets stuck on another device?**
+Press Ctrl+Alt+Shift+Esc on the keyboard you are using (Command+Option+Shift+Esc on a Mac), and the pointer and keyboard come straight back to that device.
 
 **Why do Windows, macOS and Android show a warning when I install it?**
 The MKC+ installers are not signed with a commercial certificate, so Windows SmartScreen warns once (More info, then Run anyway), and on a Mac you approve the installer once under System Settings, Privacy & Security, Open Anyway. The Android app is an APK file from mkcplus.com, not from an app store, so Android asks you to allow installing from your browser or file app, and Google Play Protect may warn about an app it does not know. MKC+ needs Android's Accessibility permission to move the pointer and type; on Android 13 and later you first allow restricted settings for MKC+, and its Permissions window shows the steps. This is expected during the beta. Download MKC+ only from mkcplus.com. After that, MKC+ updates itself and checks every update against its own signing key.
