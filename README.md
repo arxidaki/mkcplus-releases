@@ -29,7 +29,7 @@ No. MKC+ has no account, and nothing you type, copy or move goes through a serve
 Yes. You pair two devices by comparing a six-digit code on both screens. After that, the keystrokes, pointer movement, clipboard and files they send each other are encrypted and authenticated. MKC+ is a beta and has not had an independent security audit.
 
 **How do I set it up?**
-Install MKC+ on each device and open it. On a Mac, grant Input Monitoring and Accessibility when the window asks. On Android, turn on Accessibility for MKC+: its Permissions window shows the steps. With both devices on the same network, the new device appears in the MKC+ window of the other one: press Pair there, then on the new device check that both screens show the same six-digit code and press Accept. Then drag the devices in the window so they match how they sit on your desk.
+Install MKC+ on each device and open it. On a Mac, grant Input Monitoring and Accessibility (Device Control and Data Access on macOS 27 and later) when the window asks. On Android, turn on Accessibility for MKC+: its Permissions window shows the steps. With both devices on the same network, the new device appears in the MKC+ window of the other one: press Pair there, then on the new device check that both screens show the same six-digit code and press Accept. Then drag the devices in the window so they match how they sit on your desk.
 
 **Does it work over Wi-Fi?**
 MKC+ works over Wi-Fi, Ethernet, a phone's USB tethering, or several at once. It tests every connection all the time, uses the best one, and switches by itself if one drops. Your devices need to be on the same local network, or all signed in to Tailscale, which keeps them connected when one is away from home. MKC+ never uses mobile data.
