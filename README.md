@@ -1,8 +1,8 @@
 # MKC+
 
-Use one mouse and keyboard across your Windows PCs, Macs and Android devices on your local network, and copy & paste between them. Free beta, unlimited devices.
+Use one mouse and keyboard across your Windows PCs, Macs, Linux machines and Android devices on your local network, and copy & paste between them. Free beta, unlimited devices.
 
-Download it for Windows, Windows ARM, macOS (Apple silicon) or Android (Android 10 or later) from [mkcplus.com](https://mkcplus.com).
+Download it for Windows, Windows ARM, macOS (Apple silicon), Linux or Android (Android 10 or later) from [mkcplus.com](https://mkcplus.com).
 
 - Control any device from any device
 - Arrange devices to match your desk
@@ -20,7 +20,7 @@ MKC+ is a free beta app for using one mouse and keyboard across your Windows PCs
 Yes. MKC+ is a free beta: there is no paid version and no charge per device. It is not open source, and as a beta it comes as-is, without warranty.
 
 **Which systems does it work on?**
-Windows PCs (Intel or AMD, and ARM), Macs with Apple silicon, and Android phones, tablets and TVs (Android TV and Google TV) with Android 10 or later. Typing on an Android device from your keyboard needs Android 13 or later. It does not run on Intel Macs or on Linux.
+Windows PCs (Intel or AMD, and ARM), Macs with Apple silicon, Linux PCs on Wayland (Ubuntu 22.04, Debian 12, Fedora 36 or newer), and Android phones, tablets and TVs (Android TV and Google TV) with Android 10 or later. Typing on an Android device from your keyboard needs Android 13 or later. It does not run on Intel Macs, or on a Linux desktop using X11.
 
 **Do I need an account or an internet connection?**
 No. MKC+ has no account, and nothing you type, copy or move goes through a server: your devices talk directly to each other on your local network. The internet is used only to download updates, which install automatically (Android asks you to confirm), and to send feedback when you choose to.
@@ -29,7 +29,7 @@ No. MKC+ has no account, and nothing you type, copy or move goes through a serve
 Yes. You pair two devices by comparing a six-digit code on both screens. After that, the keystrokes, pointer movement, clipboard and files they send each other are encrypted and authenticated. MKC+ is a beta and has not had an independent security audit.
 
 **How do I set it up?**
-Install MKC+ on each device and open it. On a Mac, grant Input Monitoring and Accessibility (Device Control and Data Access on macOS 27 and later) when the window asks. On Android, turn on Accessibility for MKC+: its Permissions window shows the steps. With both devices on the same network, the new device appears in the MKC+ window of the other one: press Pair there, then on the new device check that both screens show the same six-digit code and press Accept. Then drag the devices in the window so they match how they sit on your desk.
+Install MKC+ on each device and open it. On a Mac, grant Input Monitoring and Accessibility (Device Control and Data Access on macOS 27 and later) when the window asks. On Android, turn on Accessibility for MKC+: its Permissions window shows the steps. On Linux, allow the two requests your desktop shows the first time: one to share the pointer and keyboard, one to let this machine be controlled. With both devices on the same network, the new device appears in the MKC+ window of the other one: press Pair there, then on the new device check that both screens show the same six-digit code and press Accept. Then drag the devices in the window so they match how they sit on your desk.
 
 **Does it work over Wi-Fi?**
 MKC+ works over Wi-Fi, Ethernet, a phone's USB tethering, or several at once. It tests every connection all the time, uses the best one, and switches by itself if one drops. Your devices need to be on the same local network, or all signed in to Tailscale, which keeps them connected when one is away from home. MKC+ never uses mobile data.
@@ -44,7 +44,7 @@ Yes. Copy on one device, move the pointer to another device, and paste. Between 
 Press Ctrl+Alt+Shift+Esc on the keyboard you are using (Command+Option+Shift+Esc on a Mac), and the pointer and keyboard come straight back to that device.
 
 **Why do Windows, macOS and Android show a warning when I install it?**
-The MKC+ installers are not signed with a commercial certificate, so Windows SmartScreen warns once (More info, then Run anyway), and on a Mac you approve the installer once under System Settings, Privacy & Security, Open Anyway. The Android app is an APK file from mkcplus.com, not from an app store, so Android asks you to allow installing from your browser or file app, and Google Play Protect may warn about an app it does not know. MKC+ needs Android's Accessibility permission to move the pointer and type; on Android 13 and later you first allow restricted settings for MKC+, and its Permissions window shows the steps. This is expected during the beta. Download MKC+ only from mkcplus.com. After that, MKC+ updates itself and checks every update against its own signing key.
+The MKC+ installers are not signed with a commercial certificate, so Windows SmartScreen warns once (More info, then Run anyway), and on a Mac you approve the installer once under System Settings, Privacy & Security, Open Anyway. The Android app is an APK file from mkcplus.com, not from an app store, so Android asks you to allow installing from your browser or file app, and Google Play Protect may warn about an app it does not know. MKC+ needs Android's Accessibility permission to move the pointer and type; on Android 13 and later you first allow restricted settings for MKC+, and its Permissions window shows the steps. On Linux there is no warning: the .deb and the .rpm install as any package does, and an AppImage only has to be marked executable before it runs. This is expected during the beta. Download MKC+ only from mkcplus.com. After that, MKC+ updates itself and checks every update against its own signing key.
 
 **Does it collect any data?**
 MKC+ has no account and does not track you. Once a day its update check adds one to an anonymous count of the system and processor type (for example Windows on ARM) and the country; no IP address or device identifier is kept. Feedback is sent only when you press Submit: your message, the app and system versions and the device name, plus the screenshots and logs you tick.
