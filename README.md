@@ -32,10 +32,10 @@ Yes. You pair two devices by comparing a six-digit code on both screens. After t
 Install MKC+ on each device and open it. On a Mac, grant Input Monitoring and Accessibility (Device Control and Data Access on macOS 27 and later) when the window asks. On Android, turn on Accessibility for MKC+: its Permissions window shows the steps. On Linux, allow the two requests your desktop shows the first time: one to share the pointer and keyboard, one to let this machine be controlled. With both devices on the same network, the new device appears in the MKC+ window of the other one: press Pair there, then on the new device check that both screens show the same six-digit code and press Accept. Then drag the devices in the window so they match how they sit on your desk.
 
 **Does it work over Wi-Fi?**
-MKC+ works over Wi-Fi, Ethernet, a phone's USB tethering, or several at once. It tests every connection all the time, uses the best one, and switches by itself if one drops. Your devices need to be on the same local network, or all signed in to Tailscale, which keeps them connected when one is away from home. MKC+ never uses mobile data.
+MKC+ works over Wi-Fi, Ethernet, a phone's USB tethering, or several at once. It tests every connection all the time, uses the best one, and switches by itself if one drops. Your devices need to be on the same local network. MKC+ never uses mobile data.
 
 **Which ports does MKC+ use?**
-UDP ports 47653 and 47654 and TCP port 47654, on your local network or Tailscale only. If a firewall blocks them, the MKC+ window says which device to fix.
+UDP ports 47653 and 47654 and TCP port 47654, on your local network only. If a firewall blocks them, the MKC+ window says which device to fix.
 
 **Can I copy and paste between Windows, Mac and Android?**
 Yes. Copy on one device, move the pointer to another device, and paste. Between PCs and Macs, text, formatted text, images and PDFs cross, and so do files and folders, which you can also drag across. With an Android phone, tablet or TV, text and images cross both ways. To send files from it, share them to MKC+ and paste on a PC or Mac. A file copied on a PC or Mac shows on it in a notification with Save to Downloads. File copy is the newest part and still has limits in the beta.
