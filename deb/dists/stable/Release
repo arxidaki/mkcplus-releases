@@ -5,10 +5,10 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: MKC+ for Debian, Ubuntu, Mint and Pop!_OS
-Date: Fri, 30 Oct 2026 09:07:53 +0000
+Date: Fri, 30 Oct 2026 12:12:25 +0000
 MD5Sum:
- 6cb27a9bc45d4eb224fab9408cbdf63e 609 main/binary-amd64/Packages
- 524e38b22b2ebdc01cb69cf646a23c56 420 main/binary-amd64/Packages.gz
+ a8e225b131b009a340954bf2fb14f63f 611 main/binary-amd64/Packages
+ 04c9933654b7474551a28f457de8970d 419 main/binary-amd64/Packages.gz
 SHA256:
- fcf017d3cdb731c99ee03ff7a3a2d2c6ebb777a747afcdc81d20725376892826 609 main/binary-amd64/Packages
- de023e549d1f1d06ce9ac381f2e280fa7931cde5a070844b9bc821e1dd11c941 420 main/binary-amd64/Packages.gz
+ 7e7d45181483d34a17800cfa67c539072e81e7c5468425922ccc5a2890690e41 611 main/binary-amd64/Packages
+ f23975478fb51b2de6bd6eee947bd460e1cc24f25a0351c31c1741291dd0ca25 419 main/binary-amd64/Packages.gz
