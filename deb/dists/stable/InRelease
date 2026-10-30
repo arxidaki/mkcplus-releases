@@ -8,27 +8,27 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: MKC+ for Debian, Ubuntu, Mint and Pop!_OS
-Date: Fri, 30 Oct 2026 00:48:35 +0000
+Date: Fri, 30 Oct 2026 09:07:53 +0000
 MD5Sum:
- 68540de2449ff3c75c8f4cbd9ba4fac2 609 main/binary-amd64/Packages
- cbe8019ae02c5634511af47a2a96d82d 420 main/binary-amd64/Packages.gz
+ 6cb27a9bc45d4eb224fab9408cbdf63e 609 main/binary-amd64/Packages
+ 524e38b22b2ebdc01cb69cf646a23c56 420 main/binary-amd64/Packages.gz
 SHA256:
- 7bd54b9ed03882e5302cb7910fab95d31dc79a6abb7899825e66f5bc428e751f 609 main/binary-amd64/Packages
- a7f96da55c92ee1ec7d2f3dab06b6cce612175256a84c164c18dac108d0dfd72 420 main/binary-amd64/Packages.gz
+ fcf017d3cdb731c99ee03ff7a3a2d2c6ebb777a747afcdc81d20725376892826 609 main/binary-amd64/Packages
+ de023e549d1f1d06ce9ac381f2e280fa7931cde5a070844b9bc821e1dd11c941 420 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCAA5FiEEojk/Bm+2e8XKcnH8JAkOoQsK8HsFAmrj6WMbFIAAAAAABAAO
-bWFudTIsMi41KzEuMTIsMCwzAAoJECQJDqELCvB73aQP/1blZS8bkEYc/F90Xu/Q
-kJvCvgP86+pjzY3UneMpF3dTo6mz879/3GRlS4ozd33SMPNfRjg0MmprfI+DFZKY
-iQtFvgQR2AL186ZKSbEkfjn3V8HDqDXvcjxpPN/FcEy1lR3hlPKMiXQzInostsN9
-YEch6zCBddzVUkiO7cbuTQrjTjieqyRwOH0A7DhkUe6LQvH0Rvti306WVeddi9J1
-Glc/XOkTdk3n5pgnfTOL99knWXVbeGq2uq0Be2iQUubwYVQjLZAgu4S3+PvVilvr
-VNnbtXpq9C4eqUnavQGP+Psz+ryr+8C9JJt018eprX6qgL7ELDsYN3g7pggb2OSw
-Aeih5UTsfsZoRA9qS1aRcWFjzd0tWO+ipu6riLWy6CO1fj68Jnby4t4rwMBLxT7d
-c5cGNJsIMv0oI2OV+J4TjV+8aSM2CCVEdzxkjj7lBCmDi+16MqaNzZrYbJduvRcW
-hyra5O/pOT+4gfSIdgVRvSynTE4Pu2qXgtGjBTaOeEsAQ1wc8V3TIG7PSZizPYbv
-wYrd32XLFUlZwHEluDe9LI4Nz7s6xWVj32VNvXyHZd/O0UPJwHQ8qzhTMGEczqvv
-jbH9s2u+Pm4kr+jqLsk6cuuNbuyAlYdewOTa0LD1Va3TnYaqlBqZJ4E1gLKtTrof
-/IsmsACV45Dj0iCUsD0tzYSY
-=LvmL
+iQJPBAEBCAA5FiEEojk/Bm+2e8XKcnH8JAkOoQsK8HsFAmrkXmkbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMCwzAAoJECQJDqELCvB7F4wP+QHQA+LLmfbyf66BNO0p
+GKhAcZ3xWx5ayytGRQWzpXs1i2pauWATzsOeaYPFMjZfPgYjbEPM2zIezdKfG9ND
+dDuO4H4XNRoCm41+cby3x6XKinW8aghqY3186ExNR30vqMC458rcDGnP/nY+AtMV
+XeP+x/T0X9mXulmETuabV1Kw0elbzEZeEqkdoG6E64EQG0BOoucaAjj6crs2AM7U
+fbO2m26VV2CIoJUOK9Iagdw96JD8HFRoULAGrBqHT0VrVZjiYjAFnZdGstt/iCpJ
+LOC+vwEQABeTyG6jdjO4wSPHALrMi/t80WcUJpcB2t585xnazUL6XepOHUrCzEXi
+e3JPv8EA2RqUc1RONXrrrmmaHojc34UkeKcXzlO1JUvIS1G025FNcMqT395iflQL
+NTyqGDO7l5HEPD1N39GT4wuLsARrDMT3gwlaQX3vah9RQfTnEYNWhY2a5hSwvagY
+WEc7EVF3KXn9diSML2w6CdUGkzRXfVnn16UKctU58lOzcnPNkGVsohKdUncckP3M
+NxHQ3Zg/RPVhDiJoORqvivnHdfCZmiWNeYc9Hk1tA9LG0hC0tzrScxfkZAJYcemM
+FpP7a2zPDO7XhwKu3BdjDffKiRXvXl9zuuZfdsvPoSOYdM1eELUHmHNPgY7ITiBZ
+vXCarrjkk0bTeEMHgJEWR2+9
+=jydo
 -----END PGP SIGNATURE-----
