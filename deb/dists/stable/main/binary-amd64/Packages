@@ -1,15 +1,15 @@
 Package: mkcplus
-Version: 0.5.11
+Version: 0.5.12
 Section: utils
 Priority: optional
 Architecture: amd64
 Maintainer: MKC+ <hello@mkcplus.com>
-Installed-Size: 33688
+Installed-Size: 33696
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libsoup-3.0-0, libdbus-1-3
 Description: One mouse and keyboard across your devices
  MKC+ shares one mouse, keyboard and clipboard between the computers on your
  desk, over your own network. Move the pointer off the edge of one screen and
  it carries on from the edge of the next.
-Filename: pool/main/m/mkcplus/mkcplus_0.5.11_amd64.deb
-Size: 13922998
-SHA256: e1864b4a39e7895f38af10b7299ed5e6249c57ac5d67444890bd0894a110f40f
+Filename: pool/main/m/mkcplus/mkcplus_0.5.12_amd64.deb
+Size: 13929876
+SHA256: 8e4283f59a1145c0de06a0b8ca266bcf31a572d10e8cdce8238d950402b6f8dc
