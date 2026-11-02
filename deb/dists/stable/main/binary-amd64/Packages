@@ -1,5 +1,5 @@
 Package: mkcplus
-Version: 0.5.12
+Version: 0.5.13
 Section: utils
 Priority: optional
 Architecture: amd64
@@ -10,6 +10,6 @@ Description: One mouse and keyboard across your devices
  MKC+ shares one mouse, keyboard and clipboard between the computers on your
  desk, over your own network. Move the pointer off the edge of one screen and
  it carries on from the edge of the next.
-Filename: pool/main/m/mkcplus/mkcplus_0.5.12_amd64.deb
-Size: 13929876
-SHA256: 8e4283f59a1145c0de06a0b8ca266bcf31a572d10e8cdce8238d950402b6f8dc
+Filename: pool/main/m/mkcplus/mkcplus_0.5.13_amd64.deb
+Size: 13930140
+SHA256: bf3aafa1811c0566a79cb32cb130a122cdf260278e59e29498c01ac2e90251a8
