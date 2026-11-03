@@ -8,27 +8,27 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: MKC+ for Debian, Ubuntu, Mint and Pop!_OS
-Date: Tue, 03 Nov 2026 09:41:00 +0000
+Date: Tue, 03 Nov 2026 15:03:03 +0000
 MD5Sum:
- b854e329863fcd8df3bc73c2a6afd0e3 611 main/binary-amd64/Packages
- 6ab3ef9fb6df7b4d175cbaa6fff1124b 421 main/binary-amd64/Packages.gz
+ d0882dfeaa7fdac82d18a687e892953e 611 main/binary-amd64/Packages
+ 7c6916c303158ee624c96bc6c8d82da5 421 main/binary-amd64/Packages.gz
 SHA256:
- a65b500b9262c7c2d2fe0d74a8057f0c2fe1f3f3a0ddef6328953a3755969316 611 main/binary-amd64/Packages
- 343664c566e971d89e05609d2288acc48e625156c9d6d8dbb29734dfc91d8628 421 main/binary-amd64/Packages.gz
+ c9d5f57897495bfd5cc0d33b9c0e1c30c9f993821b3eabe8f82a054a400b0af5 611 main/binary-amd64/Packages
+ e97a967082e361736643cb78dd9e50f968464c016ad36a0c1c23b2aeee8acdac 421 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCAA5FiEEojk/Bm+2e8XKcnH8JAkOoQsK8HsFAmrprCwbFIAAAAAABAAO
-bWFudTIsMi41KzEuMTIsMCwzAAoJECQJDqELCvB7w2gP/2VO/OPDXd0i+UKxOcMQ
-azbUvTCUPdTZ/ShCLnHUO7IucBtlNaIUZjfbkH87nXmv8pTqsvJYB+15cvIWZApa
-PPgvqJYlXnoFIpYoURjinl7RUgGoYq03o3R+rb/WJ2/idZAkjNebQ4vE8qnoAeaM
-EKE4Q8wwZHZa2mSOGvA38/WqGjOkzUfSvrpJwbX/BqjVZ88qad1GDoDGUslCKtCL
-NVd4qgtjlYUN+iemLODBU3LZct7yCmKofqZMKN464xqMjKIitmqLssn3Y9IY55A2
-wZmeVzckCZQQXC10rFAjjQ2/vQzK/aSUyQ3mdX3g7FY2UcsMVK4HvLeycg0t25Bw
-9nYOgU0tEpGtlK4YbBetDXr5RTuMp9BS2NXi+d6Pswv9qnNPccrXybAc1etRoLvK
-MvvUDuW59AZNU0+Dz26ADFkLQybB+g/lFRl8UUPksp1Q+e3kB4d4KvLof+ebjtoQ
-ScsUU0Egvh9YOf0YXg+1wLS8Loaw/Q6PwppUp9znWcYy97LmFNl6u3vxqfuJyV/o
-CJuvhKZfzKQ5W6EG1RNVv97nYIiOsMa5rgGa2wD304K4slgEYgsPmcog5p1+MlZM
-1rODNz3qhLHpU1BRhofIJgN3p5CIeb5IoIpX6CVzTD5u5pgblLZV0lvDOD5udq8B
-uPxoK1Wu59wjnDsVSLgLN6y/
-=0oUA
+iQJPBAEBCAA5FiEEojk/Bm+2e8XKcnH8JAkOoQsK8HsFAmrp96cbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMCwzAAoJECQJDqELCvB7SIEP/0pjjpLQT0zDqmtNimJV
+D0BOicYHq0sFjmz/By0KQw4LCrbDrfHN8Q9LIrld/mJaKpo8XDvrND5C8X0IbCKY
+u/lpJcQPtwp5UstOyJSvdFXKjRKYDH9dwU0e5pTdf5ELDUupTK98e8TQq5LTiVpV
+CPgcWYr+DX+pgkbGzx4zF5NDgIyL7e8J5HwSsdeXUFRoA+OyMy8Ni0byhtFdJ9mh
+grKCRYFxIqDfHjTDstmhB/t7Kpsm8DrGiJ2IlC1h2OWsHirJYBPvKYKt1QuroXQT
+K6bTmXF9ML9ixuFRk8VhJmV8xZtQ2vu5vXwztmT42VnjscirZ4dXAP5ZS7ihL3hC
+7jqwPogFX1I6YWCjRFdE+wL11t5pFUmvd8rbDb6s4ZAl/o2uICk4bbodW0mknm3E
+bGchKypizXM2oJzUioe93qVYVC1eLuyQwpM8vA4fXgWWpXynW5RBTmQO2e5+YeSq
+5aVTfodXZZpfSPpeBPjJ9Go0hNNpmA4NUr1e7QTObRUzIh4Rpuwmo1laX/QnKR9v
+wUjK79k2EGu3eCnoaiz0JGF1f975FWO6Uzrw4lfKuVxibo9GpkqGPK+8jMNTxnOo
+hdVwIcl+ljBtvlu4s3VLHNItKyrv0xN/SnztrysrA0DLxwNE5qxz2+nMrVO2IP/Q
+/I5RLQS7NcDrHpsUSouxrEov
+=gBSm
 -----END PGP SIGNATURE-----
