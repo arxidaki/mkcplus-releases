@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mkcplus": {
+      "command": "/usr/libexec/mkcplus/mkcplusd",
+      "args": [
+        "mcp"
+      ]
+    }
+  }
+}

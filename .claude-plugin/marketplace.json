@@ -1,0 +1,26 @@
+{
+  "name": "mkcplus",
+  "owner": {
+    "name": "MKC+"
+  },
+  "metadata": {
+    "description": "MKC+ for Claude Code: see and use the devices of your MKC+ group. Pick the plugin for the system Claude Code runs on"
+  },
+  "plugins": [
+    {
+      "name": "mkcplus-macos",
+      "source": "./plugins/mkcplus-macos",
+      "description": "See and use the devices of your MKC+ group from Claude Code: their screens, pointer, keyboard, clipboard and files. For Claude Code running on a Mac with MKC+ installed"
+    },
+    {
+      "name": "mkcplus-windows",
+      "source": "./plugins/mkcplus-windows",
+      "description": "See and use the devices of your MKC+ group from Claude Code: their screens, pointer, keyboard, clipboard and files. For Claude Code running on a Windows PC with MKC+ installed"
+    },
+    {
+      "name": "mkcplus-linux",
+      "source": "./plugins/mkcplus-linux",
+      "description": "See and use the devices of your MKC+ group from Claude Code: their screens, pointer, keyboard, clipboard and files. For Claude Code running on a Linux machine (the .deb or .rpm package) with MKC+ installed"
+    }
+  ]
+}

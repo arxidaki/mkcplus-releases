@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mkcplus": {
+      "command": "C:\\Program Files\\MKC+\\mkcplusd.exe",
+      "args": [
+        "mcp"
+      ]
+    }
+  }
+}

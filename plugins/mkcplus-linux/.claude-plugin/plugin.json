@@ -1,0 +1,8 @@
+{
+  "name": "mkcplus-linux",
+  "description": "See and use the devices of your MKC+ group from Claude Code: their screens, pointer, keyboard, clipboard and files. For Claude Code running on a Linux machine (the .deb or .rpm package) with MKC+ installed",
+  "author": {
+    "name": "MKC+"
+  },
+  "homepage": "https://mkcplus.com"
+}

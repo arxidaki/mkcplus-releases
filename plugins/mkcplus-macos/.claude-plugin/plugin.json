@@ -1,0 +1,8 @@
+{
+  "name": "mkcplus-macos",
+  "description": "See and use the devices of your MKC+ group from Claude Code: their screens, pointer, keyboard, clipboard and files. For Claude Code running on a Mac with MKC+ installed",
+  "author": {
+    "name": "MKC+"
+  },
+  "homepage": "https://mkcplus.com"
+}

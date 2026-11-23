@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mkcplus": {
+      "command": "/Applications/MKC+.app/Contents/MacOS/mkcplusd",
+      "args": [
+        "mcp"
+      ]
+    }
+  }
+}
