@@ -11,6 +11,19 @@ Download it for Windows, Windows ARM, macOS (Apple silicon), Linux or Android (A
 - One-click pairing
 - Automatic reconnection, any kind of local network
 
+## Agents
+
+Add MKC+ to Claude Code, Codex, Copilot and other AI agents, so they can see and use the devices of your MKC+ group: their screens, pointer, keyboard, clipboard and files. The engine of the installed app is the MCP server (`mkcplusd mcp`, over stdio), so there is nothing else to install, and the [Agents page](https://mkcplus.com/agents.html) gives the line for each agent.
+
+Add it on the device the agent runs on, with MKC+ installed there. The first time the agent uses MKC+, the MKC+ window on that device asks you to allow it. Each device then asks before the agent first uses it, and, where the device can tell which app is in front, before it first uses each app there. MKC+ sends nothing about agents anywhere: there is no account, relay or telemetry, and each device keeps its own record of what agents did there. What an agent sees, it sends to its own service, as with anything else you show it. On Android, agents can see and use a phone or tablet that has MKC+ from mkcplus.com.
+
+This repository is also a Claude Code plugin marketplace. On a Mac, run in a terminal:
+
+    claude plugin marketplace add arxidaki/mkcplus-releases
+    claude plugin install mkcplus-macos@mkcplus
+
+On Windows the plugin is `mkcplus-windows` (run the lines in Command Prompt), and on Linux `mkcplus-linux`, for the .deb and .rpm.
+
 ## Questions
 
 **What is MKC+?**
