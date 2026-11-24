@@ -1,8 +1,29 @@
 {
   "name": "mkcplus-windows",
+  "displayName": "MKC+ for Windows",
+  "version": "1.0.0",
   "description": "See and use the devices of your MKC+ group from Claude Code: their screens, pointer, keyboard, clipboard and files. For Claude Code running on a Windows PC with MKC+ installed",
   "author": {
     "name": "MKC+"
   },
-  "homepage": "https://mkcplus.com"
+  "homepage": "https://mkcplus.com",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "computer-use",
+    "remote-control",
+    "kvm",
+    "screenshots",
+    "clipboard",
+    "file-transfer",
+    "windows",
+    "macos",
+    "linux",
+    "android"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://mkcplus.com/agents.html",
+  "supportUrl": "https://github.com/arxidaki",
+  "privacyPolicyUrl": "https://mkcplus.com/privacy.html",
+  "termsOfServiceUrl": "https://mkcplus.com/terms.html"
 }
